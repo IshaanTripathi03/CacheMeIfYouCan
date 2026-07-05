@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0035-search-insert-position) |
+| [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1043-partition-array-for-maximum-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
+| [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1043-partition-array-for-maximum-sum) |
