@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0213-house-robber-ii) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
