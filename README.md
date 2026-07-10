@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
