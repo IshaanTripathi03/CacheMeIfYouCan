@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -76,8 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
