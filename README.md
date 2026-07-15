@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
