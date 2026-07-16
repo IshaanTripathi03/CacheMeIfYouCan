@@ -1,17 +1,18 @@
 class Solution {
     int gcd(int a,int b){
-        if(a==0){
-            return b;
-        }
-        if(b==0){
-            return a;
-        }
-        if(a>b){
-            return gcd(a%b,b);
-        }
-        else{
-            return gcd(a,b%a);
-        }
+        return a%b==0?b:gcd(b,a%b);
+        // if(a==0){
+        //     return b;
+        // }
+        // if(b==0){
+        //     return a;
+        // }
+        // if(a>b){
+        //     return gcd(a%b,b);
+        // }
+        // else{
+        //     return gcd(a,b%a);
+        // }
     }
     public long gcdSum(int[] nums) {
         int n=nums.length;
