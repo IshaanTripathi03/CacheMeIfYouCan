@@ -4,6 +4,10 @@ class Solution {
         int min=Integer.MAX_VALUE;
         while(low<=high){
             int mid=low+(high-low)/2;
+            if(nums[low]<=nums[high]){
+                min=Math.min(min,nums[low]);
+                break;
+            }
             if(nums[mid]>=nums[low]){
                 min=Math.min(min,nums[low]);
                 low=mid+1;
