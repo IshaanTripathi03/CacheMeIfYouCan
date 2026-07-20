@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1043-partition-array-for-maximum-sum) |
+| [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Binary Search
 |  |
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
