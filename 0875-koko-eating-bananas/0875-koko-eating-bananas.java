@@ -2,7 +2,7 @@ class Solution {
     long func(int[] piles,int k){
         long sum=0;
         for(int i:piles){
-            sum+=i%k==0?i/k:i/k+1;
+            sum+=(i+k-1)/k;
         }
         return sum;
     }
