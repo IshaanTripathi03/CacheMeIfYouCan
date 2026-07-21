@@ -1,5 +1,5 @@
 class Solution {
-    int func(int[] bloomDay,int mid, int m, int k){
+    static int func(int[] bloomDay,int mid, int m, int k){
         int count=0,M=0;
         for(int i:bloomDay){
             if(i<=mid){
