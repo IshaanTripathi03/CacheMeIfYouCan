@@ -19,11 +19,12 @@ class Solution {
         if((long)m*k>bloomDay.length){
             return -1;
         }
-        int max=-1;
+        int max=-1,min=Integer.MAX_VALUE;
         for(int i:bloomDay){
             max=Math.max(max,i);
+            min=Math.min(min,i);
         }
-        int low=1,high=max;
+        int low=min,high=max;
         while(low<=high){
             int mid=low+(high-low)/2;
             int countM=func(bloomDay,mid,m,k);
