@@ -4,15 +4,13 @@ class Solution {
         for(int i:bloomDay){
             if(i<=mid){
                 count++;
-                if(count==k){
-                    count=0;
-                    M++;
-                }
             }
             else{
+                M+=(count/k);
                 count=0;
             }
         }
+        M+=(count/k);
         return M;
     }
     public int minDays(int[] bloomDay, int m, int k) {
