@@ -13,14 +13,13 @@ class Solution {
         return a<=k;
     }
     public int splitArray(int[] nums, int k) {
-        int max=-1,sum=0;
+        int low=-1,high=0;
         for(int i:nums){
-            max=Math.max(max,i);
-            sum+=i;
+            low=Math.max(low,i);
+            high+=i;
         }
-        int low=max,high=sum;
         while(low<=high){
-            int mid=(low+high)/2;
+            int mid=low+(high-low)/2;
             if(maximumSum(nums,mid,k)){
                 high=mid-1;
             }
