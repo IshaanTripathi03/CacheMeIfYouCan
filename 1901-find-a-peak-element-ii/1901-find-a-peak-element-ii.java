@@ -16,7 +16,7 @@ class Solution {
                 break;
             }
         }
-        while(row<n && col>=0){
+        while(row>=0 && col<m){
             int right = col < m-1   ? mat[row][col+1] : -1;
             int up    = row > 0     ? mat[row-1][col] : -1;
             if( right > mat[row][col] && right >up ){
