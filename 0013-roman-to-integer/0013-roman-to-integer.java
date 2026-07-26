@@ -12,13 +12,14 @@ class Solution {
         int prev=-1;
         for(int i=s.length()-1;i>=0;i--){
             char ch=s.charAt(i);
-            if(prev>map.get(ch)){
-                sum-=map.get(ch);
+            int current=map.get(ch);
+            if(prev>current){
+                sum-=current;
             }
             else{
-                sum+=map.get(ch);
+                sum+=current;
             }
-            prev=map.get(ch);
+            prev=current;
         }
         return sum;
     }
