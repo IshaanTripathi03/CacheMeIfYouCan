@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
