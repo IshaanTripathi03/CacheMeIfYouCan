@@ -8,18 +8,18 @@ class Solution {
                 a=s;
             }
         }
-        String result="";
+        StringBuilder result=new StringBuilder();
         for(int j=0;j<min;j++){
             char ch=a.charAt(j);
             for(int i=0;i<strs.length;i++){
                 if(strs[i].charAt(j)==ch){
-                    if(i==strs.length-1)    result+=ch;
+                    if(i==strs.length-1)    result.append(ch);
                 }
                 else{
-                    return result;
+                    return result.toString();
                 }
             }
         }
-        return result;
+        return result.toString();
     }
 }
