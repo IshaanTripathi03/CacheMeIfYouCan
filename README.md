@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3536-maximum-product-of-two-digits](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3536-maximum-product-of-two-digits) |
