@@ -2,7 +2,7 @@ class Solution {
     public int myAtoi(String s) {
         int n=s.length();
         int i=0,sign=1;
-        long result=0;
+        int result=0;
         while(i<n && s.charAt(i)==' '){
             i++;
         }
@@ -20,15 +20,14 @@ class Solution {
         }
         while(i<n && Character.isDigit(s.charAt(i))){
             int k=s.charAt(i)-'0';
+            
+            if (result > Integer.MAX_VALUE / 10 ||
+                (result == Integer.MAX_VALUE / 10 && k > 7)) {
+                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+            }
             result=result*10+k;
-            if(sign==1 && result>Integer.MAX_VALUE){
-                return Integer.MAX_VALUE;
-            }
-            if(sign==-1 && sign*result<Integer.MIN_VALUE){
-                return Integer.MIN_VALUE;
-            }
             i++;
         }
-        return (int)(sign*result);
+        return sign*result;
     }
 }
