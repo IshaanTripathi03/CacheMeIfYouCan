@@ -15,14 +15,8 @@ class Solution {
             }
             i++;
         }
-        if(i==n){
-            return 0;
-        }
         while(i<n && s.charAt(i)=='0'){
             i++;
-        }
-        if(i==n){
-            return 0;
         }
         while(i<n && Character.isDigit(s.charAt(i))){
             int k=s.charAt(i)-'0';
