@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting Sort
 |  |
 | ------- |
