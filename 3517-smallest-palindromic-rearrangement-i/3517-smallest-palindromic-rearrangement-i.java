@@ -5,16 +5,21 @@ class Solution {
             freq[ch-'a']++;
         }
         StringBuilder start=new StringBuilder();
-        String middle="";
+        char middle='a';
         for(int i=0;i<=25;i++){
+            char ch=(char)(i+'a');
             for(int j=0;j<freq[i]/2;j++){
-                start.append((char)(i+'a'));
+                start.append(ch);
             }
             if(freq[i]%2==1){
-                middle=String.valueOf((char)(i+'a'));
+                middle=ch;
             }
         }
         StringBuilder end=new StringBuilder(start).reverse();
-        return start.toString()+middle+end.toString();
+        if(s.length()%2==1){
+            start.append(middle);
+        }
+        start.append(end);
+        return start.toString();
     }
 }
