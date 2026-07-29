@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
