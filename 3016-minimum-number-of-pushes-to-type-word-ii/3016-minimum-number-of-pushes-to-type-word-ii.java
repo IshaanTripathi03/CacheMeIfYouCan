@@ -10,8 +10,7 @@ class Solution {
         int idx=0;
         for(int i=25;i>=0;i--){
             if(freq[i]>0){
-                int push=(idx/8)+1;
-                sum+=freq[i]*push;
+                sum+=freq[i]*((idx/8)+1);
                 idx++;
             }
         }
