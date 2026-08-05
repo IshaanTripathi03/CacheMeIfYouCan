@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -258,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0060-permutation-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
