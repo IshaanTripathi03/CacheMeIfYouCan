@@ -1,7 +1,7 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        while(true){
-            int num=n;
+        for(int i=n;i<=n+10;i++){
+            int num=i;
             int prod=1;
             while(num!=0){
                 int digit=num%10;
@@ -17,5 +17,6 @@ class Solution {
             }
             n++;
         }
+        return -1;
     }
 }
