@@ -269,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
