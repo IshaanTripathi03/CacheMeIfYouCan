@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0206-reverse-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
