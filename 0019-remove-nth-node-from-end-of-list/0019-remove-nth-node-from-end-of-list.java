@@ -15,18 +15,18 @@ class Solution {
             fast=fast.next;
         }
         if(fast==null){
-            ListNode del=head;
-            head=head.next;
-            del.next=null;
-            return head;
+            // ListNode del=head;
+            // head=head.next;
+            // del.next=null;
+            return head.next;
         }
         while(fast.next!=null){
             slow=slow.next;
             fast=fast.next;
         }
-        ListNode del=slow.next;
+        // ListNode del=slow.next;
         slow.next=slow.next.next;
-        del.next=null;
+        // del.next=null;
         return head;
     }
 }
