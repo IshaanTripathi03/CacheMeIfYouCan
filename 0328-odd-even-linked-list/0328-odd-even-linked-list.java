@@ -10,31 +10,18 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        List<Integer> odd=new ArrayList<>();
-        List<Integer> even=new ArrayList<>();
-        ListNode temp=head;
-        int c=1;
-        while(temp!=null){
-            if(c%2==1){
-                odd.add(temp.val);
-            }
-            else{
-                even.add(temp.val);
-            }
-            c++;
-            temp=temp.next;
+        if(head==null || head.next==null){
+            return head;
         }
-        temp=head;
-        int i=0;
-        while(temp!=null && i<odd.size()){
-            temp.val=odd.get(i++);
-            temp=temp.next;
+        ListNode odd=head,even=head.next;
+        ListNode evenHead=head.next;
+        while(odd.next!=null && even.next!=null){
+            odd.next=odd.next.next;
+            even.next=even.next.next;
+            odd=odd.next;
+            even=even.next;
         }
-        i=0;
-        while(temp!=null && i<even.size()){
-            temp.val=even.get(i++);
-            temp=temp.next;
-        }
+        odd.next=evenHead;
         return head;
     }
 }
