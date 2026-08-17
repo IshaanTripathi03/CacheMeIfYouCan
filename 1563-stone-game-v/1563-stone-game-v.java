@@ -34,13 +34,6 @@ class Solution {
         }
         for(int i=n-1;i>=0;i--){
             for(int j=i+1;j<n;j++){
-                if(i>j){
-                    continue;
-                }
-                if(i==j){
-                    dp[i][j]=0;
-                    continue;
-                }
                 int max=Integer.MIN_VALUE;
                 for(int k=i;k<j;k++){
                     int leftSum=prefix[k]- (i>0?prefix[i-1]:0);
