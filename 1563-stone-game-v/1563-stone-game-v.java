@@ -33,7 +33,7 @@ class Solution {
             prefix[i]=prefix[i-1]+stoneValue[i];
         }
         for(int i=n-1;i>=0;i--){
-            for(int j=0;j<n;j++){
+            for(int j=i+1;j<n;j++){
                 if(i>j){
                     continue;
                 }
