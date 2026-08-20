@@ -1,9 +1,6 @@
 class Solution {
     public int[] resultArray(int[] nums) {
         int n=nums.length;
-        if(n<=2){
-            return nums;
-        }
         List<Integer> ar1=new ArrayList<>();
         List<Integer> ar2=new ArrayList<>();
         ar1.add(nums[0]);
