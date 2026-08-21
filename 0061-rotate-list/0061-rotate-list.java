@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    private int length(ListNode head){
+    private static int length(ListNode head){
         int count=0;
         ListNode temp=head;
         while(temp!=null){
