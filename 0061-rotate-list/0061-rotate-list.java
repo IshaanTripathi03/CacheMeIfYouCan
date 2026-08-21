@@ -18,18 +18,6 @@ class Solution {
         }
         return count;
     }
-    // private ListNode tillKthNode(ListNode temp,int k){
-    //     int counter=0;
-    //     while(temp!=null){
-    //         counter++;
-    //         if(counter==k){
-    //             return temp;
-    //         }
-    //         temp=temp.next;
-    //     }
-    //     return null;
-    // }
-   
     public ListNode rotateRight(ListNode head, int k) {
         int n=length(head);
         if(k==0 || head==null){
