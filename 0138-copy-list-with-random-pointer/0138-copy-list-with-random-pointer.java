@@ -23,15 +23,14 @@ class Solution {
             temp=temp.next;
         }
         temp=head;
-        Node result=new Node(-1);
-        Node resHead=result;
+        
         while(temp!=null){
-            result.next=map.get(temp);
-            result=result.next;
+            Node result=map.get(temp);
+            // result=result.next;
             result.next=map.get(temp.next);
             result.random=map.get(temp.random);
             temp=temp.next;
         }
-        return resHead.next;
+        return map.get(head);
     }
 }
