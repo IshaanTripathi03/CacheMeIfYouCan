@@ -13,6 +13,20 @@ class Solution {
         return  half*half/x;
     }
     public double myPow(double x, int n) {
-        return f(x,n);
+        double ans=1.0;
+        while(n!=0){
+            if(n%2!=0){
+                if(n>0){
+                    ans*=x;
+                }
+                else{
+                    ans/=x;
+                }
+            }
+            x*=x;
+            n/=2;
+
+        }
+        return ans;
     }
 }
