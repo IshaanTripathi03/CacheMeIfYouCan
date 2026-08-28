@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2029-stone-game-ix) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1922-count-good-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
