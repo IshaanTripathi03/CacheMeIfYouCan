@@ -18,7 +18,7 @@ class Solution {
     }
     public int countGoodNumbers(long n) {
         long countOdd=n/2;
-        long countEven=countOdd+n%2;
+        long countEven=(n+1)/2;
         long ans= (pow(5,countEven)*pow(4,countOdd))%MOD;
         return (int)ans;
     }
