@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
