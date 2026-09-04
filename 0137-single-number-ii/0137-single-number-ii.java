@@ -1,18 +1,12 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        Arrays.sort(nums);
         int n=nums.length;
-        int ans=0;
-        for(int bit=0;bit<32;bit++){
-            int cnt=0;
-            for(int i=0;i<n;i++){
-                if((nums[i]&(1<<bit))!=0){
-                    cnt++;
-                }
-            }
-            if(cnt%3==1){
-                ans=(ans|(1<<bit));
+        for(int i=1;i<n;i+=3){
+            if(nums[i-1]!=nums[i]){
+                return nums[i-1];
             }
         }
-        return ans;
+        return nums[n-1];
     }
 }
