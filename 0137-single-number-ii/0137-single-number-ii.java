@@ -1,12 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Arrays.sort(nums);
-        int n=nums.length;
-        for(int i=1;i<n;i+=3){
-            if(nums[i-1]!=nums[i]){
-                return nums[i-1];
-            }
+        int ones=0,twos=0;
+        for(int i:nums){
+            ones=((ones^i)&(~twos));
+            twos=((twos^i)&(~ones));
         }
-        return nums[n-1];
+        return ones;
     }
 }
