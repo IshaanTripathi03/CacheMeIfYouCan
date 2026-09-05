@@ -12,9 +12,9 @@ class Solution {
         int result=Integer.MAX_VALUE;
         for(int i=0;i<n;i++){
             if(prefix[i]-suffix[i]<=k){
-                result=Math.min(result,i);
+                return i;
             }
         }
-        return result==Integer.MAX_VALUE?-1:result;
+        return -1;
     }
 }
