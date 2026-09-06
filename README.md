@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0205-isomorphic-strings) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
