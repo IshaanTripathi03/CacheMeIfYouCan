@@ -1,10 +1,10 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        long xor=0;
+        int xor=0;
         for(int i:nums){
             xor^=i;
         }
-        long rightmost=(xor&(xor-1))^xor;
+        int rightmost=(xor&(xor-1))^xor;
         int b1=0,b2=0;
         for(int i:nums){
             if((rightmost&i)==0){
