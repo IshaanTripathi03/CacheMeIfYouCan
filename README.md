@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -418,4 +422,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2029-stone-game-ix) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
