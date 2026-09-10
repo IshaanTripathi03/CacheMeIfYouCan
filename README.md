@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1043-partition-array-for-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
