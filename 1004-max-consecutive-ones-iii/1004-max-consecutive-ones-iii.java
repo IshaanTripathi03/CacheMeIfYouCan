@@ -6,13 +6,15 @@ class Solution {
             if(nums[right]==0){
                 countZero++;
             }
-            while(countZero>k){
+            if(countZero>k){
                 if(nums[left]==0){
                     countZero--;
                 }
                 left++;
             }
-            max=Math.max(max,right-left+1);
+            if(countZero<=k){
+                max=Math.max(max,right-left+1);
+            }
         }
         return max;
     }
