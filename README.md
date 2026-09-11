@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1043-partition-array-for-maximum-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1922-count-good-numbers) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
