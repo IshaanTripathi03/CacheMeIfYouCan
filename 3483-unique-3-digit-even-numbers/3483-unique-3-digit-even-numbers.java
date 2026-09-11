@@ -1,28 +1,19 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        int[] freq=new int[10];
-        for(int i:digits){
-            freq[i]++;
-        }
+        int n=digits.length;
         int count=0;
-        for(int i=100;i<=999;i+=2){
-            int n=i;
-            int ones=n%10;
-            n/=10;
-            int tens=n%10;
-            n/=10;
-            int need[]=new int[10];
-            need[ones]++;
-            need[tens]++;
-            need[n]++;
-            count++;
-            for(int k=0;k<10;k++){
-                if(need[k]>freq[k]){
-                    count--;
-                    break;
+        HashSet<Integer> set=new HashSet<>();
+        for(int i=0;i<n;i++){      //Unit Digit
+            if((digits[i]&1)==1){    continue;}
+            for(int j=0;j<n;j++){   //Tens Digit
+                if(i==j){       continue;}
+                for(int k=0;k<n;k++){
+                    if(k==j || i==k || digits[k]==0){       continue;}
+                    int num=digits[k]*100+digits[j]*10+digits[i];
+                    set.add(num);
                 }
             }
         }
-        return count;
+        return set.size();
     }
 }
