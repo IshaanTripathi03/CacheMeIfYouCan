@@ -6,10 +6,11 @@ class Solution {
             int ch=s.charAt(right)-'A';
             freq[ch]++;
             maxfreq=Math.max(maxfreq,freq[ch]);
-            while((right-left+1)-maxfreq>k){
+            if((right-left+1)-maxfreq>k){
                 freq[s.charAt(left)-'A']--;
                 left++;
             }
+            if((right-left+1)-maxfreq<=k)
             max=Math.max(max,right-left+1);
         }
         return max;
