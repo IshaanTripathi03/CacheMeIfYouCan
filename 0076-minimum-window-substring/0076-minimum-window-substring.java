@@ -1,5 +1,9 @@
 class Solution {
     public String minWindow(String s, String t) {
+        if (s == null || t == null || s.length() == 0 || t.length() == 0 ||
+                s.length() < t.length()) {
+            return new String();
+        }
         int[] freq=new int[256];
         // HashMap<Character,Integer> map=new HashMap<>();
         for(char ch:t.toCharArray()){
