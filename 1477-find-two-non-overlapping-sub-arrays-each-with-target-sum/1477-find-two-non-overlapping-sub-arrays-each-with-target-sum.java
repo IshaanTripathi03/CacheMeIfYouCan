@@ -1,6 +1,7 @@
 class Solution {
     public int minSumOfLengths(int[] arr, int target) {
         int n=arr.length;
+        // dp[i] = minimum length of a target-sum subarray
         int dp[]=new int[n+1];
         int left=0,sum=0,min=n+1,ans=n+1;
         for(int right=0;right<n;right++){
