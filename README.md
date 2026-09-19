@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Backtracking
 |  |
 | ------- |
