@@ -6,6 +6,9 @@ class Solution {
             totalSum+=i;
         }
         int target=totalSum-x;
+        if(target==0){
+            return n;
+        }
         int left=0,max=-1,sum=0;
         for(int right=0;right<n;right++){
             sum+=nums[right];
