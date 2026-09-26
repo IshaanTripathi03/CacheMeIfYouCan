@@ -1,13 +1,11 @@
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        int n=s.length();
-        int m=knowledge.size();
         StringBuilder result=new StringBuilder();
         HashMap<String,String> map=new HashMap<>();
-        for(int i=0;i<m;i++){
+        for(int i=0;i<knowledge.size();i++){
             map.put(knowledge.get(i).get(0),knowledge.get(i).get(1));
         }
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(ch=='('){
                 int j=s.indexOf(')',i+1);
@@ -18,11 +16,6 @@ class Solution {
                 else{
                     result.append('?');
                 }
-                // for(int k=0;k<m;k++){
-                //     if(key.equals(knowledge.get(k).get(0))){
-                //         value=knowledge.get(k).get(1);
-                //     }
-                // }
                 i=j;
             }
             else{
