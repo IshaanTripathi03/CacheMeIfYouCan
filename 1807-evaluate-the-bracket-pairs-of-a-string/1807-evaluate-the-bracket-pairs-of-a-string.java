@@ -10,10 +10,7 @@ class Solution {
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
             if(ch=='('){
-                int j=i+1;
-                while(s.charAt(j)!=')'){
-                    j++;
-                }
+                int j=s.indexOf(')',i+1);
                 String key=s.substring(i+1,j);
                 if(map.containsKey(key)){
                     result.append(map.get(key));
