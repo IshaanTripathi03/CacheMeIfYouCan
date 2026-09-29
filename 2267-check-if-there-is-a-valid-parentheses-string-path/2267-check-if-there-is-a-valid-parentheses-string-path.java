@@ -20,8 +20,25 @@ class Solution {
         if(((n+m-1)&1)==1 || grid[0][0]==')'){
             return false;
         }
-        Boolean dp[][][]=new Boolean[n][m][n+m+1]; 
-        
-        return f(n-1,m-1,0,grid,dp);
+        boolean dp[][][]=new boolean[n][m][n+m+1];
+        dp[0][0][1]=true;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(i==0 && j==0){
+                    continue;
+                }
+                for(int c=0;c<=n+m;c++){
+                    int prevC=grid[i][j]==')'?c+1:c-1;
+                    if(prevC<0 || prevC > n + m){
+                        continue;
+                    }
+                    boolean up=i>0 && dp[i-1][j][prevC] ;
+                    boolean left=j>0 && dp[i][j-1][prevC] ;
+                    dp[i][j][c]=up||left;
+                }
+                
+            }
+        }
+        return dp[n-1][m-1][0] ;
     }
 }
