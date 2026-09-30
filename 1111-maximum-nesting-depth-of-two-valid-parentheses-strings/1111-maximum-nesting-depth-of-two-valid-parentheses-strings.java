@@ -7,11 +7,10 @@ class Solution {
             char ch=seq.charAt(i);
             if(ch=='('){
                 depth++;
-                result[i]=depth%2;
-                
+                result[i]=depth&1;
             }
             else{
-                result[i]=depth%2;
+                result[i]=depth&1;
                 depth--;
             }
         }
