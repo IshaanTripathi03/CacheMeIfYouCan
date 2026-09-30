@@ -1,18 +1,9 @@
 class Solution {
     public int[] maxDepthAfterSplit(String seq) {
         int n=seq.length();
-        int depth=0;
         int[] result=new int[n];
         for(int i=0;i<n;i++){
-            char ch=seq.charAt(i);
-            if(ch=='('){
-                depth++;
-                result[i]=depth&1;
-            }
-            else{
-                result[i]=depth&1;
-                depth--;
-            }
+            result[i]=(i&1)^(seq.charAt(i)=='('?1:0);
         }
         return result;
     }
