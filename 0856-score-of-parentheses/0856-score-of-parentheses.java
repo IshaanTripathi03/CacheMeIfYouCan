@@ -1,7 +1,6 @@
 class Solution {
-    
     public int scoreOfParentheses(String s) {
-        Stack<Integer> stack=new Stack<>();
+        Deque<Integer> stack=new ArrayDeque<>();
         stack.push(0);
         for(char ch:s.toCharArray()){
             if(ch=='('){
