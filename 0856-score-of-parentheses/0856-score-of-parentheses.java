@@ -1,23 +1,18 @@
 class Solution {
     public int scoreOfParentheses(String s) {
-        Deque<Integer> stack=new ArrayDeque<>();
-        stack.push(0);
-        for(char ch:s.toCharArray()){
-            if(ch=='('){
-                stack.push(0);
+        int n=s.length(),count=0;
+        int points=0;
+        for(int i=0;i<n;i++){
+            if(s.charAt(i)=='('){
+                count++;
             }
             else{
-                int top=stack.pop();
-                int count;
-                if(top==0){
-                    count=1;
+                count--;
+                if(s.charAt(i-1)=='('){
+                    points+=1<<count;
                 }
-                else{
-                    count=2*top;
-                }
-                stack.push(stack.pop()+count);
             }
         }
-        return stack.pop();
+        return points;
     }
 }
