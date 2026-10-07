@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0141-linked-list-cycle) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
