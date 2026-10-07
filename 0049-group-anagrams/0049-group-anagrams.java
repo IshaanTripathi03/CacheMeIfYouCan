@@ -19,24 +19,18 @@ class Solution {
         return true;
     }
     public List<List<String>> groupAnagrams(String[] strs) {
-        int n=strs.length;
-        boolean flag[]=new boolean[n];
-        List<List<String>> result=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            List<String> sub=new ArrayList<>();
-            if(flag[i]){
-                continue;
+        HashMap<String,List<String>> map=new HashMap<>();
+        for(String s:strs){
+            int[] freq=new int[26];
+            for(char ch:s.toCharArray()){
+                freq[ch-'a']++;
             }
-            sub.add(strs[i]);
-            flag[i]=true;
-            for(int j=i+1;j<n;j++){
-                if(!flag[j] && check(strs[i],strs[j])){
-                    sub.add(strs[j]);
-                    flag[j]=true;
-                }
+            StringBuilder key=new StringBuilder();
+            for(int i:freq){
+                key.append(i).append('#');
             }
-            result.add(sub);
+            map.computeIfAbsent(key.toString(),k -> new ArrayList<>()).add(s);
         }
-        return result;
+        return new ArrayList<>(map.values());
     }
 }
