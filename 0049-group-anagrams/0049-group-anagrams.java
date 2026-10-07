@@ -1,23 +1,4 @@
 class Solution {
-    static boolean check(String s1,String s2){
-        int n=s1.length();
-        int m=s2.length();
-        int[] st1=new int[26];
-        int[] st2=new int[26];
-        if(n!=m){
-            return false;
-        }
-        for(int i=0;i<n;i++){
-            st1[s1.charAt(i)-'a']++;
-            st2[s2.charAt(i)-'a']++;
-        }
-        for(int i=0;i<26;i++){
-            if(st1[i]!=st2[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     public List<List<String>> groupAnagrams(String[] strs) {
         HashMap<String,List<String>> map=new HashMap<>();
         for(String s:strs){
@@ -34,3 +15,22 @@ class Solution {
         return new ArrayList<>(map.values());
     }
 }
+// static boolean check(String s1,String s2){
+//     int n=s1.length();
+//     int m=s2.length();
+//     int[] st1=new int[26];
+//     int[] st2=new int[26];
+//     if(n!=m){
+//         return false;
+//     }
+//     for(int i=0;i<n;i++){
+//         st1[s1.charAt(i)-'a']++;
+//         st2[s2.charAt(i)-'a']++;
+//     }
+//     for(int i=0;i<26;i++){
+//         if(st1[i]!=st2[i]){
+//             return false;
+//         }
+//     }
+//     return true;
+// }
