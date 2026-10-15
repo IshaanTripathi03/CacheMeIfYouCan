@@ -3,11 +3,10 @@ class Solution {
         int n=nums.size();
         int prod=0;
         for(int i=0;i<n;i++){
+            HashSet<Integer> set=new HashSet<>();
             for(int j=i;j<n;j++){
-                HashSet<Integer> set=new HashSet<>();
-                for(int k=i;k<=j;k++){
-                    set.add(nums.get(k));
-                }
+                
+                set.add(nums.get(j));
                 prod+=set.size()*set.size();
             }
         }
