@@ -1,27 +1,29 @@
 class Solution {
-    
     public int paintWalls(int[] cost, int[] time) {
         int n=cost.length;
-        int[][] dp=new int[n][n+1];
+        int[] prev=new int[n+1];
         for(int remaining=1;remaining<=n;remaining++){
             if(remaining<=time[0]+1){
-                dp[0][remaining]=cost[0];
+                prev[remaining]=cost[0];
             }
             else{
-                dp[0][remaining]= (int)1e9;
+                prev[remaining]= (int)1e9;
             }
         }
         for(int i=1;i<n;i++){
-            dp[i][0]=0;
+            int[] current=new int[n+1];
+            current[0]=0;
+            
             for(int remaining=1;remaining<=n;remaining++){
                 int free,paid=cost[i];
-                free= dp[i-1][remaining] ;
+                free= prev[remaining] ;
                 if(remaining-time[i]-1>0)
-                paid+=dp[i-1][remaining-time[i]-1];
-                dp[i][remaining]= Math.min(free,paid);
+                paid+=prev[remaining-time[i]-1];
+                current[remaining]= Math.min(free,paid);
             }
+            prev=current;
         }
-        return dp[n-1][n];
+        return prev[n];
     }
 }
 // int function (int i,int remaining,int[] cost,int[] time,int[][] dp){
