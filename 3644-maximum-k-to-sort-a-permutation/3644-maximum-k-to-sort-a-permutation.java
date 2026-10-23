@@ -1,18 +1,11 @@
 class Solution {
     public int sortPermutation(int[] nums) {
-        ArrayList<Integer> list=new ArrayList<>();
+        int k=Integer.MAX_VALUE;
         for(int i=0;i<nums.length;i++){
             if(i!=nums[i]){
-                list.add(nums[i]);
+                k&=nums[i];
             }
         }
-        if(list.size()==0){
-            return 0;
-        }
-        int k=list.get(0);
-        for(int i=0;i<list.size();i++){
-            k=(k&list.get(i));
-        }
-        return k;
+        return k==Integer.MAX_VALUE?0:k;
     }
 }
