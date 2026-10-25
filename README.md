@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1386-cinema-seat-allocation) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
