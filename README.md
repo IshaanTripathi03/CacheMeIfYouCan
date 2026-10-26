@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -628,11 +630,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -649,4 +653,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
