@@ -1,10 +1,11 @@
 class Solution {
     public String[] createGrid(int m, int n) {
         String[] result=new String[m];
-        result[0]="";
+        StringBuilder s=new StringBuilder();
         for(int i=0;i<n;i++){
-            result[0]=result[0]+".";
+            s.append('.');
         }
+        result[0]=s.toString();
         for(int i=1;i<m;i++){
             StringBuilder subStr=new StringBuilder();
             for(int j=0;j<n;j++){
