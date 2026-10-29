@@ -14,6 +14,7 @@ class Solution {
             for(int i=0;i<26;i++){
                 if(freq[i]<chr[i]){
                     possible=false;
+                    break;
                 }
             }
             if(possible){
