@@ -22,8 +22,8 @@ class Solution {
             }
         }
         long sum=0L;
-        while(!result.isEmpty()){
-            sum+=result.poll();
+        for(int i:result){
+            sum+=i;
         }
         return sum;
     }
