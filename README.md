@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Bucket Sort
 |  |
 | ------- |
