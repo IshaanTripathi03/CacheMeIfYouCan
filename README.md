@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2742-painting-the-walls](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2742-painting-the-walls) |
 | [3524-find-x-value-of-array-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
