@@ -6,11 +6,11 @@ class Solution {
         long[][] prev=new long[m][2];
         prev[0][0]=1L;prev[0][1]=1L;
         for(int i=0;i<n;i++){
-            long[][] current=new long[m][2];
+            // long[][] current=new long[m][2];
             for(int j=0;j<m;j++){
                 if(i==0 && j==0){
-                    current[0][0]=1L;
-                    current[0][1]=1L;
+                    // current[0][0]=1L;
+                    // current[0][1]=1L;
                     continue;
                 }
                 for(int check=0;check<2;check++){
@@ -19,22 +19,22 @@ class Solution {
                         up=prev[j][1];
                     }
                     if(j>0){
-                        left=current[j-1][0]; 
+                        left=prev[j-1][0]; 
                     }
                     if(grid[i][j]==1){
                         if(check==1){
-                            current[j][check]= left; 
+                            prev[j][check]= left; 
                         }
                         else{
-                            current[j][check]= up; 
+                            prev[j][check]= up; 
                         }
                     }
                     else{
-                        current[j][check]=(up+left)%MOD;
+                        prev[j][check]=(up+left)%MOD;
                     } 
                 }
             }
-            prev=current;
+            // prev=current;
         }
         
         return (int)prev[m-1][1];
