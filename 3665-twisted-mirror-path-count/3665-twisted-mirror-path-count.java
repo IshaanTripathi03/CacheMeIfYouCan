@@ -1,40 +1,43 @@
 class Solution {
     static final int MOD=1_000_000_007;
-    
     public int uniquePaths(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
-        long[][][] dp=new long[n][m][2];
-        dp[0][0][0]=1L;dp[0][0][1]=1L;
+        long[][] prev=new long[m][2];
+        prev[0][0]=1L;prev[0][1]=1L;
         for(int i=0;i<n;i++){
+            long[][] current=new long[m][2];
             for(int j=0;j<m;j++){
                 if(i==0 && j==0){
+                    current[0][0]=1L;
+                    current[0][1]=1L;
                     continue;
                 }
                 for(int check=0;check<2;check++){
                     long up=0L,left=0L;
                     if(i>0){
-                        up=dp[i-1][j][1];
+                        up=prev[j][1];
                     }
                     if(j>0){
-                        left=dp[i][j-1][0]; 
+                        left=current[j-1][0]; 
                     }
                     if(grid[i][j]==1){
                         if(check==1){
-                            dp[i][j][check]= left; 
+                            current[j][check]= left; 
                         }
                         else{
-                            dp[i][j][check]= up; 
+                            current[j][check]= up; 
                         }
                     }
                     else{
-                        dp[i][j][check]=(up+left)%MOD;
+                        current[j][check]=(up+left)%MOD;
                     } 
                 }
             }
+            prev=current;
         }
         
-        return (int)dp[n-1][m-1][1];
+        return (int)prev[m-1][1];
     }
 }
 // long function(int i,int j,int check,int n,int m , int[][] grid, long[][][] dp){
