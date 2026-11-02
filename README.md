@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
