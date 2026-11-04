@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0904-fruit-into-baskets) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -677,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
