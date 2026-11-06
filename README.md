@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2381-shifting-letters-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2381-shifting-letters-ii) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2742-painting-the-walls](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3483-unique-3-digit-even-numbers) |
