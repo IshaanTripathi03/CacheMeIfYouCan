@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1927-sum-game) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2381-shifting-letters-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2381-shifting-letters-ii) |
 | [2409-count-days-spent-together](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3345-smallest-divisible-digit-product-i) |
