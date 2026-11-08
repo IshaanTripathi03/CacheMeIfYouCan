@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -670,12 +673,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Ternary Search
 |  |
