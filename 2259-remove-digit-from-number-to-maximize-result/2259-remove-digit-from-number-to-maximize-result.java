@@ -1,11 +1,9 @@
 class Solution {
     public String removeDigit(String number, char digit) {
         int n=number.length();
-        
-        char maxch=Character.MIN_VALUE;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-1;i++){
             char ch=number.charAt(i);
-            char nextnum=i<n-1?number.charAt(i+1):'0';
+            char nextnum=number.charAt(i+1);
             if(ch==digit && ch <nextnum ){
                 return number.substring(0,i).concat(number.substring(i+1));
             }
