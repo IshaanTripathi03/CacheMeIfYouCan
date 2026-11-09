@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0496-next-greater-element-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0496-next-greater-element-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
