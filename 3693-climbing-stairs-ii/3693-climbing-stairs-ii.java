@@ -15,18 +15,20 @@ class Solution {
     //     return dp[i]=Math.min( case1 , Math.min(case2,case3) );
     // }
     public int climbStairs(int n, int[] costs) {
-        int[] dp=new int[n+1];
-        dp[0]=0;
+        int prev1=0,prev2=(int)1e9,prev3=(int)1e90;
         for(int i=1;i<=n;i++){
             int case1=(int)1e9,case2=(int)1e9,case3=(int)1e9;
             if(i>0)
-            case1=costs[i-1]+1+ dp[i-1] ;
+            case1=costs[i-1]+1+ prev1 ;
             if(i>1)
-            case2=costs[i-1]+4+ dp[i-2] ;
+            case2=costs[i-1]+4+ prev2 ;
             if(i>2)
-            case3=costs[i-1]+9+ dp[i-3] ;
-            dp[i]=Math.min( case1 , Math.min(case2,case3) );
+            case3=costs[i-1]+9+ prev3 ;
+            int current=Math.min( case1 , Math.min(case2,case3) );
+            prev3=prev2;
+            prev2=prev1;
+            prev1=current;
         }
-        return dp[n];
+        return prev1;
     }
 }
