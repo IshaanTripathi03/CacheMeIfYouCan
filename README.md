@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
+| [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
