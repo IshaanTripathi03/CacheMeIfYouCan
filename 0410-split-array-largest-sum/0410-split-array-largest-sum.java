@@ -1,26 +1,29 @@
 class Solution {
-    boolean maximumSum(int[] nums, int mid,int k){
-        int a=1,sum=0;
+    private static boolean check(int mid,int[] nums,int k){
+        int totalSplits=1,sum=0;
         for(int i:nums){
             if(sum+i<=mid){
                 sum+=i;
             }
             else{
-                a++;
                 sum=i;
+                totalSplits++;
+            }
+            if(totalSplits>k){
+                return false;
             }
         }
-        return a<=k;
+        return true;
     }
     public int splitArray(int[] nums, int k) {
-        int low=-1,high=0;
+        int low=0,high=0;
         for(int i:nums){
-            low=Math.max(low,i);
             high+=i;
+            low=Math.max(low,i);
         }
         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(maximumSum(nums,mid,k)){
+            int mid=(low+high)>>1;
+            if(check(mid,nums,k)){
                 high=mid-1;
             }
             else{
