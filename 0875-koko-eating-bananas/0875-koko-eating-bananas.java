@@ -1,20 +1,23 @@
 class Solution {
-    long func(int[] piles,int k){
-        long sum=0;
+    private static boolean check(int mid,int[] piles,int h){
+        int totalHrs=0;
         for(int i:piles){
-            sum+=(i+k-1)/k;
+            totalHrs+=(i+mid-1)/mid;
+            if(totalHrs>h){
+                return false;
+            }
         }
-        return sum;
+        return true;
     }
     public int minEatingSpeed(int[] piles, int h) {
-        int max=Integer.MIN_VALUE;
+        int high=0;
         for(int i:piles){
-            max=Math.max(max,i);
+            high=Math.max(high,i);
         }
-        int low=1,high=max;
+        int low=1;
         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(func(piles,mid)<=h){
+            int mid=(low+high)>>1;
+            if(check(mid,piles,h)){
                 high=mid-1;
             }
             else{
