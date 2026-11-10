@@ -1,32 +1,30 @@
 class Solution {
-    static int func(int[] bloomDay,int mid, int m, int k){
-        int count=0,M=0;
+    private static boolean check(int mid,int[] bloomDay,int m,int k){
+        int bouquetsCount=0,totalCounts=0;
         for(int i:bloomDay){
             if(i<=mid){
-                count++;
+                bouquetsCount++;
             }
             else{
-                M+=(count/k);
-                count=0;
+                totalCounts+=bouquetsCount/k;
+                bouquetsCount=0;
             }
         }
-        M+=(count/k);
-        return M;
+        totalCounts+=bouquetsCount/k;
+        return totalCounts>=m;
     }
     public int minDays(int[] bloomDay, int m, int k) {
-        if((long)m*k>bloomDay.length){
+        int low=Integer.MAX_VALUE,high=0;
+        if((long)bloomDay.length<(long)m*k){
             return -1;
         }
-        int max=-1,min=Integer.MAX_VALUE;
         for(int i:bloomDay){
-            max=Math.max(max,i);
-            min=Math.min(min,i);
+            low=Math.min(low,i);
+            high=Math.max(high,i);
         }
-        int low=min,high=max;
         while(low<=high){
-            int mid=low+(high-low)/2;
-            int countM=func(bloomDay,mid,m,k);
-            if(countM>=m){
+            int mid=(low+high)>>1;
+            if(check(mid,bloomDay,m,k)){
                 high=mid-1;
             }
             else{
