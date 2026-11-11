@@ -4,12 +4,8 @@ class Solution {
         int[] leftIdx=new int[n];
         int[] rightIdx=new int[n];
         Stack<Integer> st=new Stack<>();
-        HashMap<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<n;i++){
-            map.put(i,heights[i]);
-        }
-        for(int i=0;i<n;i++){
-            while(!st.isEmpty() && map.get(st.peek())>=heights[i]){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
                 st.pop();
             }
             if(st.isEmpty()){
@@ -24,7 +20,7 @@ class Solution {
             st.pop();
         }
         for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && map.get(st.peek())>=heights[i]){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
                 st.pop();
             }
             if(st.isEmpty()){
