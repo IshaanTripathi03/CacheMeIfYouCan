@@ -13,10 +13,10 @@ class Solution {
                 st.pop();
             }
             if(st.isEmpty()){
-                leftIdx[i]=-1;
+                leftIdx[i]=0;
             }
             else{
-                leftIdx[i]=st.peek();
+                leftIdx[i]=st.peek()+1;
             }
             st.push(i);
         }
@@ -28,16 +28,16 @@ class Solution {
                 st.pop();
             }
             if(st.isEmpty()){
-                rightIdx[i]=n;
+                rightIdx[i]=n-1;
             }
             else{
-                rightIdx[i]=st.peek();
+                rightIdx[i]=st.peek()-1;
             }
             st.push(i);
         }
         int maxArea=0;
         for(int i=0;i<n;i++){
-            int area=(rightIdx[i]-leftIdx[i]-1)*heights[i];
+            int area=(rightIdx[i]-leftIdx[i]+1)*heights[i];
             maxArea=Math.max(maxArea,area);
         }
         return maxArea;
