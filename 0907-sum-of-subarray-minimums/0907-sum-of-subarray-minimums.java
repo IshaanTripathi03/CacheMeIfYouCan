@@ -4,8 +4,8 @@ class Solution {
         int n=arr.length;
         int[] leftSmaller=new int[n];
         int[] rightSmaller=new int[n];
-        Stack<Integer> st1=new Stack<>();
-        Stack<Integer> st2=new Stack<>();
+        ArrayDeque<Integer> st1=new ArrayDeque<>();
+        ArrayDeque<Integer> st2=new ArrayDeque<>();
         for(int i=0;i<n;i++){
             while(!st1.isEmpty() && arr[st1.peek()]>=arr[i]){
                 st1.pop();
