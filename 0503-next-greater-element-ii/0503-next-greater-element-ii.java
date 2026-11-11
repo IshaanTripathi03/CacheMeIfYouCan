@@ -9,10 +9,10 @@ class Solution {
             }
             if(i<n){
                 if(st.isEmpty()){
-                    result[i%n]=-1;
+                    result[i]=-1;
                 }
                 else{
-                    result[i%n]=st.peek();
+                    result[i]=st.peek();
                 }
             }
             st.push(nums[i%n]);
