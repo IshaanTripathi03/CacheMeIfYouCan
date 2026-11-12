@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0678-valid-parenthesis-string) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3310-remove-methods-from-project) |
@@ -757,4 +760,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
