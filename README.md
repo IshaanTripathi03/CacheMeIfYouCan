@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## String Matching
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Prefix Sum
 |  |
 | ------- |
