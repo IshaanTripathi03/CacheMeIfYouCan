@@ -13,12 +13,12 @@ class Solution {
             for(int amt=0;amt<=amount;amt++){
                 int take=0,notTake=0;
                 if(amt>=coins[i]){
-                    take= current[amt-coins[i]] ;
+                    take= prev[amt-coins[i]] ;
                 }
                 notTake= prev[amt] ;
-                current[amt]=take+notTake;
+                prev[amt]=take+notTake;
             }
-            prev=current;
+            // prev=current;
         }
         return prev[amount];
     }
