@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0151-reverse-words-in-a-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0119-pascals-triangle-ii) |
