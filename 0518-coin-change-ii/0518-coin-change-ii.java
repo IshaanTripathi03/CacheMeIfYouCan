@@ -2,25 +2,23 @@ class Solution {
     
     public int change(int amount, int[] coins) {
         int n=coins.length;
-        int[] prev=new int[amount+1];
+        int[] dp=new int[amount+1];
         for(int amt=0;amt<=amount;amt++){
             if(amt%coins[0]==0){
-                prev[amt]=1;
+                dp[amt]=1;
             }
         }
         for(int i=1;i<n;i++){
-            int[] current=new int[amount+1];
             for(int amt=0;amt<=amount;amt++){
                 int take=0,notTake=0;
                 if(amt>=coins[i]){
-                    take= prev[amt-coins[i]] ;
+                    take= dp[amt-coins[i]] ;
                 }
-                notTake= prev[amt] ;
-                prev[amt]=take+notTake;
+                notTake= dp[amt] ;
+                dp[amt]=take+notTake;
             }
-            // prev=current;
         }
-        return prev[amount];
+        return dp[amount];
     }
 }
 // private static int function(int i,int amount,int[] coins,int[][] dp){
