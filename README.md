@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0856-score-of-parentheses) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0678-valid-parenthesis-string) |
