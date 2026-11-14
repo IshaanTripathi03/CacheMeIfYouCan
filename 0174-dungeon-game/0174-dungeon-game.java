@@ -18,9 +18,21 @@ class Solution {
         int n=dungeon.length;
         int m=dungeon[0].length;
         int[][] dp=new int[n][m];
-        for(int[] row:dp){
-            Arrays.fill(row,-1);
+        dp[n-1][m-1]=Math.max(1,1-dungeon[n-1][m-1]);
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+                if(i==n-1 && j==m-1){
+                    continue;
+                }
+                int right=(int)1e9,down=(int)1e9;
+                if(j<m-1)
+                right= dp[i][j+1] ;
+                if(i<n-1)
+                down= dp[i+1][j] ;
+                int required=Math.min(right,down)-dungeon[i][j];
+                dp[i][j]=Math.max(1,required);
+            }
         }
-        return function(0,0,n,m,dungeon,dp);
+        return dp[0][0];
     }
 }
