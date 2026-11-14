@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0084-largest-rectangle-in-histogram) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0118-pascals-triangle) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
