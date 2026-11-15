@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0540-single-element-in-a-sorted-array) |
@@ -798,4 +801,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
