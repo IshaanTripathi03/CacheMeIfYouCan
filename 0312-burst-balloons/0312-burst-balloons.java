@@ -1,18 +1,5 @@
 class Solution {
-    private static int function(int i,int j,int[] num,int[][] dp){
-        if(j<i){
-            return 0;
-        }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        int max=Integer.MIN_VALUE;
-        for(int k=i;k<=j;k++){
-            int partition=num[i-1]*num[k]*num[j+1]+function(i,k-1,num,dp)+function(k+1,j,num,dp);
-            max=Math.max(max,partition);
-        }
-        return dp[i][j]=max;
-    }
+    
     public int maxCoins(int[] nums) {
         int n=nums.length;
         int[] num=new int[n+2];
@@ -37,3 +24,17 @@ class Solution {
         return  dp[1][n];
     }
 }
+// private static int function(int i,int j,int[] num,int[][] dp){
+//     if(j<i){
+//         return 0;
+//     }
+//     if(dp[i][j]!=-1){
+//         return dp[i][j];
+//     }
+//     int max=Integer.MIN_VALUE;
+//     for(int k=i;k<=j;k++){
+//         int partition=num[i-1]*num[k]*num[j+1]+function(i,k-1,num,dp)+function(k+1,j,num,dp);
+//         max=Math.max(max,partition);
+//     }
+//     return dp[i][j]=max;
+// }
