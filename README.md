@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
+| [2370-longest-ideal-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2370-longest-ideal-subsequence) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1927-sum-game) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2370-longest-ideal-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2370-longest-ideal-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2381-shifting-letters-ii) |
 | [2409-count-days-spent-together](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2370-longest-ideal-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2370-longest-ideal-subsequence) |
 | [2742-painting-the-walls](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2742-painting-the-walls) |
 | [3524-find-x-value-of-array-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3665-twisted-mirror-path-count) |
