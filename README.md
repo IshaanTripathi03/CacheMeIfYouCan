@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1552-magnetic-force-between-two-balls) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2381-shifting-letters-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2381-shifting-letters-ii) |
