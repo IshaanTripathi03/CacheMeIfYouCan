@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2370-longest-ideal-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2370-longest-ideal-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2381-shifting-letters-ii) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3867-sum-of-gcd-of-formed-pairs) |
