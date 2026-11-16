@@ -9,6 +9,10 @@ class Solution {
             return false;
         }
         int target=totalSum/k;
+        Arrays.sort(nums);
+        if(nums[n-1]>target){
+            return false;
+        }
         int totalMask=1<<n;
         int[] dp=new int[totalMask];
         Arrays.fill(dp,-1);
