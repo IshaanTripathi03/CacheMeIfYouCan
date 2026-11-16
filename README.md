@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0875-koko-eating-bananas) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1143-longest-common-subsequence) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0022-generate-parentheses) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -814,4 +818,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0300-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
