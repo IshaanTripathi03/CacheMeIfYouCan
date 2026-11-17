@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1043-partition-array-for-maximum-sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3310-remove-methods-from-project) |
