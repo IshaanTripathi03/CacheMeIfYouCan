@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0238-product-of-array-except-self) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1260-shift-2d-grid) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3310-remove-methods-from-project) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
@@ -785,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
