@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0628-maximum-product-of-three-numbers) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0621-task-scheduler) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -632,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
