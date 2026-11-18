@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0137-single-number-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0240-search-a-2d-matrix-ii) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0994-rotting-oranges) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1267-count-servers-that-communicate) |
