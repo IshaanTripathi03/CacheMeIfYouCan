@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2381-shifting-letters-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2381-shifting-letters-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2742-painting-the-walls](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2094-finding-3-digit-even-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaanTripathi03/CacheMeIfYouCan/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
