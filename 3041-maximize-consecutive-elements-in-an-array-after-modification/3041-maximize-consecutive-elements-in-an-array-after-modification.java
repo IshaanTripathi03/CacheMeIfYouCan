@@ -1,5 +1,4 @@
 class Solution {
-    
     public int maxSelectedElements(int[] nums) {
         int n=nums.length;
         Arrays.sort(nums);
