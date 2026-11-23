@@ -3,7 +3,6 @@ class Solution {
     public int coinChange(int[] coins, int amount) {
         int n=coins.length;
         int[] prev=new int[amount+1];
-        
         for(int amt=0;amt<=amount;amt++){
             if(amt%coins[0]==0){
                 prev[amt]=amt/coins[0];
@@ -12,7 +11,6 @@ class Solution {
                 prev[amt]=(int)1e9;
             }
         }
-        
         for(int i=1;i<n;i++){
             int current[]=new int[amount+1];
             for(int amt=0;amt<=amount;amt++){
